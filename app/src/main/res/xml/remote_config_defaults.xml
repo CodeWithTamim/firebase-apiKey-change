@@ -1,0 +1,7 @@
+<defaultsMap>
+    <entry>
+        <key>api_url</key>
+        <value>https://v2ray.codewithtamim.com</value>
+    </entry>
+    <!-- Add other configuration parameters as needed -->
+</defaultsMap>

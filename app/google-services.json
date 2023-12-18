@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "819978700889",
+    "project_id": "fir-test-3a843",
+    "storage_bucket": "fir-test-3a843.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819978700889:android:c4d19a2ccaa41473204948",
+        "android_client_info": {
+          "package_name": "com.cwtstudio.firebasetest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_jGuCvz3j3ielrleFqIecLIHkKRVYCMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
